@@ -3925,8 +3925,8 @@ input, select, textarea {
 	width: 20%;
 }
 
-#one > section > div > div > p:nth-child(2) {
-	font-size: 1.3em;
+#one > section > div > div > p {
+	font-size: 1.2em;
 }
 
 #one > section > div > div > ul:nth-child(3) {
@@ -3947,5 +3947,20 @@ input, select, textarea {
 }
 
 #four > div > div > section:nth-child(2) > ul > li  > a {
+	font-size: 1.25em;
+}
+
+img#salmon-bio {
+    width: 400px;
+    height: 330px;
+}
+
+img#horowitz-bio {
+    width: 400px;
+    height: 430px;
+}
+
+#wrapper > section > div > p {
+	color: white;
 	font-size: 1.25em;
 }
