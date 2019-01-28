@@ -3968,3 +3968,24 @@ img#horowitz-bio {
 #two, #four, #footer {
 	background-color:#151416;
 }
+
+#sinai-logo, #sarbonne-logo {
+	max-height: 50px;
+}
+
+#usp-logo {
+	max-height: 65px;
+}
+/*#course-locations {
+    max-width: 400px;
+    max-height: 120px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+*/
+
+
+
+
