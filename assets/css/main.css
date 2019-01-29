@@ -3960,6 +3960,10 @@ img#horowitz-bio {
     height: 430px;
 }
 
+img#lemoine-bio {
+    max-width: 320px;
+}
+
 #wrapper > section > div > p {
 	color: white;
 	font-size: 1.25em;
