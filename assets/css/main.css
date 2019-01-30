@@ -3973,9 +3973,14 @@ img#lemoine-bio {
 	background-color:#151416;
 }
 
-#sinai-logo, #sarbonne-logo {
+#sinai-logo {
 	max-height: 50px;
 }
+
+#sarbonne-logo {
+	max-height: 70px;
+}
+
 
 #usp-logo {
 	max-height: 65px;
