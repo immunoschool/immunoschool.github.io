@@ -3947,7 +3947,7 @@ input, select, textarea {
 }
 
 #four > div > div > section:nth-child(2) > ul > li  > a {
-	font-size: 1.25em;
+	font-size: 1.15em;
 }
 
 img#salmon-bio {
@@ -3984,6 +3984,10 @@ img#lemoine-bio {
 
 #usp-logo {
 	max-height: 65px;
+}
+
+.contact-location {
+	font-size: 1.2em;
 }
 /*#course-locations {
     max-width: 400px;
