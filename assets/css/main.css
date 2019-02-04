@@ -3723,7 +3723,10 @@ input, select, textarea {
 			-ms-transition: color 0.2s ease;
 			transition: color 0.2s ease;
 			border: 0;
-			color: rgba(255, 255, 255, 0.35);
+			/*color: rgba(255, 255, 255, 0.35);*/
+			color: rgba(0,0,0,0.9);
+			text-align: center;
+			background-color: rgba(255,255,255,0.8);
 			display: block;
 			font-size: 0.8em;
 			font-weight: bold;
@@ -3767,7 +3770,8 @@ input, select, textarea {
 			}
 
 			#sidebar nav a.active {
-				color: #ffffff;
+				color: #000000;
+				text-align: center;
 			}
 
 				#sidebar nav a.active:after {
@@ -4007,6 +4011,8 @@ img#lemoine-bio {
 }
 */
 
-
+#sidebar {
+	background-image: url("../../images/immuno-bckg.png");
+}
 
 
