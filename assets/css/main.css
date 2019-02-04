@@ -3993,6 +3993,10 @@ img#lemoine-bio {
 .section-header {
 	color: #1e76bd;
 }
+
+#sinai-rates-header {
+	font-size: 1.25em;
+}
 /*#course-locations {
     max-width: 400px;
     max-height: 120px;
