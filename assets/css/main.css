@@ -3989,6 +3989,10 @@ img#lemoine-bio {
 .contact-location {
 	font-size: 1.2em;
 }
+
+.section-header {
+	color: #1e76bd;
+}
 /*#course-locations {
     max-width: 400px;
     max-height: 120px;
