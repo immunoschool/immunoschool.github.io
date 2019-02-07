@@ -4015,4 +4015,17 @@ img#lemoine-bio {
 	background-image: url("../../images/immuno-bckg.png");
 }
 
+.about-p {
+	margin-bottom: 10px;
+}
+
+.site-header {
+	font-size: 1.2em;
+}
+
+.org-list {
+	font-size: 1.2em;
+    color: white;
+    margin: 0 0 1em 0;
+}
 
