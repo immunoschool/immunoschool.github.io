@@ -4029,8 +4029,11 @@ img#lemoine-bio {
     margin: 0 0 1em 0;
 }
 
-
 .featured-speaker {
 	font-weight: normal;
 	font-size: 0.9em;
+}
+
+.speaker-name {
+	color: #19bedc
 }
