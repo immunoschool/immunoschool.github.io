@@ -4037,3 +4037,7 @@ img#lemoine-bio {
 .speaker-name {
 	color: #19bedc
 }
+
+.sinai-rates-image {
+	max-width: 600px;
+}
